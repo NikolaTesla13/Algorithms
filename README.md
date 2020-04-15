@@ -1,2 +1,3 @@
 # Algorithms
-Some common used algorithms.
+
+Some common used algorithms implemented in C#.
